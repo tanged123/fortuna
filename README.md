@@ -130,6 +130,4 @@ For questions or issues, please create an issue in the repository or contact the
 
 ---
 
-**Built with ❤️ for better financial management**# fortuna
-# fortuna
-# fortuna
+**Built with ❤️ for better financial management**
